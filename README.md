@@ -1,3 +1,5 @@
+# Wordlist Anjing emang
+```
 Oke slurr ini wordlist aduh kepanjangan gua singkat aja jadi We El okok?
 okek jadi untuk menggunakan wl ini kalian cukup masuk dulu ke script kalean ya guys
 misal gini deh aku punya brute facebook nih tapi wordlistnya kurang bagus tuh
@@ -10,7 +12,7 @@ caranya "apt install mc"
 klo udah klian buka mc nya 
 trus klian open WL kalian open salma.txt kemudian ada copy disana tinggal pencet anjir kemudian kembali kemudian
 (masih di mc ya) klian ke darkFB.py kemudian paste kan ajha boyyy
-
+```
 
 ### bangsad udah ya
 ### Maaf klo salah lah
